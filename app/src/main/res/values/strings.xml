@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Surat-Surat Pendek</string>
+    <string-array name="datajuz">
+        <item>SURAH AN NAAS</item>
+        <item>SURAH AL FALAQ</item>
+        <item>SURAH AL IKHLASH</item>
+        <item>SURAH AL LAHAB</item>
+        <item>SURAH AN NASHR</item>
+        <item>SURAH AL KAFIRUN</item>
+        <item>SURAH AL KAUTSAR</item>
+        <item>SURAH AL MAA’UUN</item>
+        <item>SURAH QURAISY</item>
+        <item>SURAH AL FIIL</item>
+    </string-array>
+</resources>
